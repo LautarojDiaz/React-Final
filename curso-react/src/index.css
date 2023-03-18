@@ -1,0 +1,25 @@
+
+
+.imagen_portada{
+  height: 100vh;
+}
+
+.imagenfondo{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.container{
+  color: black;
+}
+
+body{
+ background: url("./components/images/hombre.gif");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ background-attachment: fixed;
+ margin: 0;
+ font-family: 'Fenix', serif;
+}

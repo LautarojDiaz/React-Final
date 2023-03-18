@@ -1,0 +1,74 @@
+[
+    {
+        "index": 1,
+        "nombre": "Paco Rabanne",
+        "descripcion":"Perfume Paco Rabanne es una fragancia aromatica para hombre. Es la encarnación de estilo masculino, seductivo e inolvidable. La lavanda, el diente de ajo y el preparado de tobaco las capturas el encanto masculino irresistible. Se recomienda para ocasiones importantes.",
+        "precio": 1500,
+        "imagen": "../images/million.png",
+        "stock": "4",
+        "categoria": "Fragancias"
+    },    
+    {
+        "index": 2,
+        "nombre": "Badee Al Oud",
+        "descripcion":"Bade'e Al Oud Oud for Glory de Lattafa Perfumes es una fragancia de la familia olfativa Amber Woody para hombres y mujeres. Esta es una nueva fragancia. Bade'e Al Oud Oud for Glory se lanzó en 2020. Las Notas de Salida son azafrán, nuez moscada y lavanda; las Notas de Corazón son madera de oud y pachulí; las Notas de Fondo son madera de oud, pachulí y almizcle.",
+        "precio": 1400,
+        "imagen": "../images/glory.png",
+        "stock": "3",
+        "categoria": "Fragancias"
+    },
+    {
+        "index": 3,
+        "nombre": "Jean Paul Gaultier",
+        "descripcion":"Paco",
+        "precio": 1100,
+        "imagen": "../images/jean.png",
+        "stock": "8",
+        "categoria": "Es una aroma jugoso, sensual, embriagador y MUY tentador. La pera impregna las notas de salida, seguida por el vetiver en el corazón y la vainilla de fondo"
+    },    
+    {
+        "index": 4,
+        "nombre": "Rolex",
+        "descripcion":"Los relojes Rolex están diseñados y creados para perdurar gracias a los relojeros, diseñadores e ingenieros dedicados cuyas habilidades y conocimientos se transfieren a todos y cada uno de los relojes Rolex.",
+        "precio": 1200,
+        "imagen": "../images/rolex.png",
+        "stock": "2",
+        "categoria": "Relojes"
+    },
+    {
+        "index": 5,
+        "nombre": "Megalith",
+        "descripcion":"Un reloj cronógrafo de cuarzo de lujo para hombre de MEGALITH. El bisel está diseñado con un taquímetro. 3 subesferas que muestran: 24 horas, segundos y minutos del cronógrafo. Los segundos se muestran en la posición de las 6 en punto. Fecha. Luminiscencia: manecillas y marcadores de hora.",
+        "precio": 1200,
+        "imagen": "../images/mega.png",
+        "stock": "4",
+        "categoria": "Relojes"
+    },
+    {
+        "index": 6,
+        "nombre": "Dolce & Gabbana Anillo",
+        "descripcion":"Anillo de cadena en metal galvanizado en plata: • Elemento decorativo con logotipo DG • Logotipo grabado •",
+        "precio": 1100,
+        "imagen": "../images/dg.png",
+        "stock": "7",
+        "categoria": "Anillos"
+    },
+    {
+        "index": 7,
+        "nombre": "Emporio Armani Anillo",
+        "descripcion":"Emporio Armani, EA, Armani, Joyas Emporio Armani, anillos de acero inoxidable para hombres, anillos negros para hombres, anillos de plata para hombres, anillo",
+        "precio": 1200,
+        "imagen": "../images/armani.png",
+        "stock": "5",
+        "categoria": "Anillos"
+    },
+    {
+        "index": 8,
+        "nombre": "Viceroy Anillo Acero",
+        "descripcion":"Anillos de hombre para completar tu look y clásicos que encierran recuerdo único. Piezas de acero disponibles en diferentes tallas, acabados y con detalles extraodinarios.",
+        "precio": 1100,
+        "imagen": "../images/viceroy.png",
+        "stock": "5",
+        "categoria": "Anillos"
+    }
+    ]
