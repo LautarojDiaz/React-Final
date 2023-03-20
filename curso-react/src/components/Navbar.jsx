@@ -24,16 +24,16 @@
                         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                             <ul className="navbar-nav">
                                 <li className="nav-item">
-                                    <NavLink className="nav-link text-light justify-content-end " activeClassName={"active"} to={"/"}>Productos</NavLink  >
+                                    <NavLink className="nav-link justify-content-end text-black" activeClassName={"active"} to={"/"}>Productos</NavLink  >
                                 </li>
                                 <li className="nav-item">
-                                    <NavLink className="nav-link text-light justify-content-end " activeClassName={"active"} to={"/category/Fragancias"}>Fragancias</NavLink  >
+                                    <NavLink className="nav-link justify-content-end text-black" activeClassName={"active"} to={"/category/Fragancias"}>Fragancias</NavLink  >
                                 </li>
                                 <li className="nav-item">
-                                    <NavLink className="nav-link text-light" activeClassName={"active"}  to={"/category/Relojes"}>Relojes</NavLink>
+                                    <NavLink className="nav-link text-black" activeClassName={"active"}  to={"/category/Relojes"}>Relojes</NavLink>
                                 </li>
                                 <li className="nav-item">    
-                                    <NavLink className="nav-link text-light" activeClassName={"active"} to={"/category/Anillos"}>Anillos</NavLink>
+                                    <NavLink className="nav-link text-black" activeClassName={"active"} to={"/category/Anillos"}>Anillos</NavLink>
                                 </li>
                             </ul>
                         </div>

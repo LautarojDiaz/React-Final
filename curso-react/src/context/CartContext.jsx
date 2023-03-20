@@ -25,7 +25,7 @@ const CartContextProvider = ({children}) => {
         setCart([]);  
     }
 
-    const isInCart = () => {
+    const isInCart = (itemId) => {
         return cart.some (item => item.index === itemId);
     }
 

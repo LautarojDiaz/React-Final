@@ -11,15 +11,17 @@
 }
 
 .container{
-  color: black;
+  color:black;
 }
 
 body{
- background: url("./components/images/hombre.gif");
+ background: white;
  background-repeat: no-repeat;
  background-size: cover;
  background-position: center;
  background-attachment: fixed;
  margin: 0;
  font-family: 'Fenix', serif;
+ color: black;
 }
+

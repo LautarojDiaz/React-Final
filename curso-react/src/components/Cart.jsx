@@ -7,7 +7,7 @@ import trash from "./images/trash.svg";
 
 
 const Cart = () => {
-    const {cart, clear ,removeItem ,cartTotal} = useContext(CartContext);
+    const {cart, clear ,removeItem ,cartTotal, cartSum} = useContext(CartContext);
     
     if(cartTotal()===0){
         return(
@@ -40,14 +40,14 @@ const Cart = () => {
                                     <td className="text-end aling-middle" width="10%">
                                     <button className="btn btn-warning bg-warning" onClick={() => {removeItem(item.index)}} title={"Eliminar producto"}>
                                     <img src={trash} alt=
-{"Eliminar Producto"} width={32}></img></button> </td>
+                                    {"Eliminar Producto"} width={32}></img></button> </td>
                                 </tr>
                             ))
                         }
                         <tr>
                             <td colSpan={2}>&nbsp;</td>
                             <td className="text-center">Total a Pagar</td>
-                            <td className="text-center" ><b>${cartSun()}</b></td>
+                            <td className="text-center" ><b>${cartSum()}</b></td>
                             <td>&nbsp;</td>
                         </tr>
                     </table>
